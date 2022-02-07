@@ -2,4 +2,4 @@
 proyecto, taller de maquetacion de mi portaolio-CV
 
 # Proyectos
--[Landing Page de tipo Portafolio-CV](https://MartinLlauce.github.io/taller-maquetacion/portafolio-cv)
+-[Landing Page de tipo Portafolio-CV](https://martinllauce.github.io/taller-maquetacion/)
